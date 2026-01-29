@@ -1,1 +1,0 @@
-# NoahHarrisGameOfLife.github.io
